@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    letter-spacing: 3px;
+}
+
+header{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    margin: 0 0 10px 0;
+}
+
+.capsula{
+    background: black;
+    height: 8px;
+    width: 100px;
+    border-radius: 20px;
+}
+
+.text-1{
+    font-size: 70px;
+    font-family: Segoe UI Black;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.text-2{
+    font-size: 110px;
+    color: #B88940;
+    text-align: center;
+}
+
+.text-3{
+    font-size: 80px;
+    font-family: Bodoni MT;
+    text-align: center;
+    color: black;
+}
+
+.text-4{
+    text-align: center;
+    color: black;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+#lineas > *{
+    background: #FFBD59;
+    height: 40px;
+    margin:  0 150px 30px 150px;
+}
+
+.imagenes{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+img{
+    height: 320px;
+    margin-right: 40px;
+    width: 220px;
+}
+
+p{
+    text-decoration: solid;
+    font-size: 20px;
+    margin-left: 12px;
+    
+}
+
+.footer{
+    display: flex;
+    margin-top: 219px;
+    justify-content: center;
+    color: #B88940;
+    font-size: 20px;
+}
+
+.footer-2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 90px;
+}
+
